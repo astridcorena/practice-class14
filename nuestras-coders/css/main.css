@@ -1,0 +1,48 @@
+header {
+  padding: 10px 50px 0px 50px;
+  text-align: left;
+}
+
+hr{
+  width: 4%;
+  margin-left: 5px;
+  height: 2px;
+  background-color: #000000;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 900px;
+  margin: 30px auto 0;
+}
+
+section {
+  display: inline-block;
+  margin: 0px;
+  padding-top: 0px;
+}
+
+.gallery{
+  width: 800px;
+  padding-right: 30px;
+  margin: 0px;
+}
+
+.gallery ul{
+  list-style: none;
+}
+
+.gallery li {
+  float: left;
+  margin: 10px;
+  padding-right: 0px;
+}
+
+.gallery img{
+  display:block;
+  padding: 5px;
+}
